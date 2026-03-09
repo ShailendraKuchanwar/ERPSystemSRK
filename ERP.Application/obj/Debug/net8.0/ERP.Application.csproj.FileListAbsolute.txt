@@ -1,0 +1,34 @@
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.deps.json
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\refint\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.pdb
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ref\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.AssemblyReference.cache
+D:\SRK\Test code\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Appl.DD782D7E.Up2Date
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.AssemblyReference.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Appl.DD782D7E.Up2Date
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\refint\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ERP.Application.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Application\obj\Debug\net8.0\ref\ERP.Application.dll

@@ -1,0 +1,2 @@
+D:\SRK\Test code\ERPSystem\obj\Debug\ERP.Domain.csproj.AssemblyReference.cache
+D:\SRK\Test code\ERPSystem\obj\Debug\ERP.Domain.csproj.CoreCompileInputs.cache

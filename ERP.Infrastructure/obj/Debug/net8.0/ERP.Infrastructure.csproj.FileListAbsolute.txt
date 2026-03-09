@@ -1,0 +1,38 @@
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.deps.json
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.csproj.AssemblyReference.cache
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infr.92BEE6A2.Up2Date
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\refint\ERP.Infrastructure.dll
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\Test code\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ref\ERP.Infrastructure.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.csproj.AssemblyReference.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infr.92BEE6A2.Up2Date
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\refint\ERP.Infrastructure.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Infrastructure\obj\Debug\net8.0\ref\ERP.Infrastructure.dll

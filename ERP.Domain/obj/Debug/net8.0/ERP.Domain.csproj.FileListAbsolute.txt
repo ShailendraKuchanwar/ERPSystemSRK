@@ -1,0 +1,22 @@
+D:\SRK\Test code\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.deps.json
+D:\SRK\Test code\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\refint\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.Domain\obj\Debug\net8.0\ref\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\refint\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Domain\obj\Debug\net8.0\ref\ERP.Domain.dll

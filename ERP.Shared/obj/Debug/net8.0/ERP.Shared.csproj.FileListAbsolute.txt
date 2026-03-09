@@ -1,0 +1,22 @@
+D:\SRK\Test code\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.deps.json
+D:\SRK\Test code\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\refint\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.Shared\obj\Debug\net8.0\ref\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\refint\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Shared\obj\Debug\net8.0\ref\ERP.Shared.dll

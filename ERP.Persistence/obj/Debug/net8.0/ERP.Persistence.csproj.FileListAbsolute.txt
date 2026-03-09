@@ -1,0 +1,42 @@
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.deps.json
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.runtimeconfig.json
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.csproj.AssemblyReference.cache
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Pers.FEC943E3.Up2Date
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\refint\ERP.Persistence.dll
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.genruntimeconfig.cache
+D:\SRK\Test code\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ref\ERP.Persistence.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.runtimeconfig.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.csproj.AssemblyReference.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Pers.FEC943E3.Up2Date
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\refint\ERP.Persistence.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ERP.Persistence.genruntimeconfig.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.Persistence\obj\Debug\net8.0\ref\ERP.Persistence.dll

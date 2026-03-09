@@ -1,0 +1,48 @@
+﻿ERPSystem
+│
+├── ERP.API                → Presentation Layer (Controllers)
+│
+├── ERP.Application        → Business Logic
+│   ├── Interfaces
+│   ├── Services
+│   ├── DTOs
+│   ├── Features (Module Wise)
+│   └── Validators
+│
+├── ERP.Domain             → Core Models (Pure Layer)
+│   ├── Entities
+│   ├── Enums
+│   ├── Common
+│   └── Interfaces
+│
+├── ERP.Persistence        → Database Access
+│   ├── Context
+│   ├── Configurations
+│   ├── Repositories
+│   └── Migrations
+│
+├── ERP.Infrastructure     → External Services
+│   ├── Identity
+│   ├── FileStorage
+│   ├── EmailService
+│   └── Logging
+│
+├── ERP.Shared             → Common Utilities
+│   ├── Constants
+│   ├── Helpers
+│   └── Responses
+│
+└── ERP.Tests              → Unit Testing
+
+=============================================
+https://chatgpt.com/share/69a0f78a-8034-8012-a635-b87cbb730b94
+=============================================
+https://react.dev/learn/tutorial-tic-tac-toe
+=============================================
+Prefix		Module
+ADM			Admission
+ACAD		Academic
+HR			Human Resource
+FIN			Finance
+INV			Inventory
+============================================

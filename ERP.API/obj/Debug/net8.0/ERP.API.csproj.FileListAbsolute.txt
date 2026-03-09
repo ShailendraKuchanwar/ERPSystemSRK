@@ -1,0 +1,299 @@
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\appsettings.Development.json
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\appsettings.json
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.staticwebassets.endpoints.json
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.exe
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.deps.json
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.runtimeconfig.json
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.AssemblyReference.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.AssemblyInfoInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.AssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.CoreCompileInputs.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\scopedcss\bundle\ERP.API.styles.css
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.Up2Date
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.dll
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\refint\ERP.API.dll
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.genruntimeconfig.cache
+D:\SRK\Test code\ERPSystem\ERP.API\obj\Debug\net8.0\ref\ERP.API.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Azure.Core.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Humanizer.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\Test code\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.AssemblyReference.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.AssemblyInfoInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.AssemblyInfo.cs
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.CoreCompileInputs.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\refint\ERP.API.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\appsettings.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.staticwebassets.endpoints.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.exe
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.deps.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.runtimeconfig.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.API.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Azure.Core.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Azure.Identity.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Humanizer.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Memory.Data.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Application.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Domain.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Infrastructure.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Persistence.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Shared.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Application.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Domain.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Infrastructure.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Persistence.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\ERP.Shared.pdb
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\scopedcss\bundle\ERP.API.styles.css
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\swae.build.ex.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.csproj.Up2Date
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ERP.API.genruntimeconfig.cache
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\obj\Debug\net8.0\ref\ERP.API.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\AutoMapper.dll
+D:\SRK\PROJECT\PROJECT\ERPSystem\ERPSystem\ERP.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
